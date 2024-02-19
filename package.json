@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "comp2156-lab exercise",
   "main": "index.js",
+  "homepage": "https://villi28.github.io/comp2156-labs/",
   "scripts": {
       "start": "react-scripts start",
       "build": "react-scripts build",
